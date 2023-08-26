@@ -1,11 +1,11 @@
 import React from 'react';
 import './index.css';
 
-const Lesson1 = ({ name }) => {
+const Lesson1 = ({ Mehdi }) => {
   return (
     <div className="hello-world">
       <p>
-        Hello <strong>{name}</strong>
+        Hello <strong>Mehdi</strong>
       </p>
       <ul>
         <li>item1 {5 * 10}</li>

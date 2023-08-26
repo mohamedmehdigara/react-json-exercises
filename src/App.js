@@ -6,7 +6,7 @@ import Lesson4 from './Lesson4';
 const App = () => {
   return (
     <div>
-      <Lesson4 />
+      <Lesson1 />
     </div>
   );
 };
